@@ -1,0 +1,19 @@
+{
+  "name": "ht-number-guessing-game",
+  "version": "1.0.0",
+  "description": "This is cli based Number Guessing Game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hafsa Tahir",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
